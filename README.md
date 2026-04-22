@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ng Vu Thang Tinh
+- 👋 Hi, I’m Ng Vu Thanh Tinh
 - 🌱 I’m currently a third-year Computer Science student at International University - VNU HCMC
 <!---
 ngvuthtinh/ngvuthtinh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
