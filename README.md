@@ -11,7 +11,7 @@
 [![Portfolio](https://img.shields.io/badge/GITHUB-THANHTINH--NGUYEN-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-username)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-NGUYENVUTHANHTINH-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ngvuthtinh/)
 
-[![Email](https://img.shields.io/badge/EMAIL-YOUR.EMAIL%40GMAIL.COM-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ngvuthtinh.work@gmai.com)
+[![Email](https://img.shields.io/badge/NGVUTHTINH.WORK.EMAIL%40GMAIL.COM-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ngvuthtinh.work@gmai.com)
 
 </div>
 
