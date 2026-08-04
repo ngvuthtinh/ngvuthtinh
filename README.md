@@ -1,14 +1,14 @@
 # 🚀 About Me
 
-I'm Nguyen Vu Thanh TInh, a Computer Science student passionate about building high-quality web applications and scalable backend systems.
+I'm Nguyen Vu Thanh Tinh, a Computer Science student passionate about engineering reliable software applications and scalable backend systems.
 
 I enjoy turning ideas into real products, from designing responsive web user interfaces to developing secure backend APIs and managing databases.
 
 Currently, I'm focusing on:
 
-* 💻 Full-stack Web Development
-* ⚙️ Backend Systems & API Design
-* 🤖 Artificial Intelligence
+* ⚙️ Backend Engineering
+* 🗄️ Database Architecture
+* 🤖 Applied AI Integration
 
 Always open to learning new technologies and collaborating on impactful projects.
 
@@ -34,6 +34,7 @@ Always open to learning new technologies and collaborating on impactful projects
 
 ### 🗄️ Databases & Tools
 
+![PostgreSQL](https://img.shields.io/badge/POSTGRESQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MONGODB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Docker](https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white)
