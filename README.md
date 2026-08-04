@@ -1,23 +1,18 @@
-# 🚀 About Me
+<div align="center">
 
-I'm Nguyen Vu Thanh Tinh, a Computer Science student passionate about engineering reliable software applications and scalable backend systems.
+# Nguyen Vu Thanh Tinh
 
-I enjoy turning ideas into real products, from designing responsive web user interfaces to developing secure backend APIs and managing databases.
+**Computer Science student @ International University - VNU HCMC**
 
-Currently, I'm focusing on:
+*Building high-performance backend systems. Solving real-world problems.*
 
-* ⚙️ Backend Engineering
-* 🗄️ Database Architecture
-* 🤖 Applied AI Integration
+<br />
 
-Always open to learning new technologies and collaborating on impactful projects.
+[![Portfolio](https://img.shields.io/badge/GITHUB-THANHTINH--NGUYEN-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-username)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-NGUYENVUTHANHTINH-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ngvuthtinh/)
+[![Email](https://img.shields.io/badge/EMAIL-YOUR.EMAIL%40GMAIL.COM-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ngvuthtinh.work@gmai.com)
 
-## 🌐 Connect with Me
-
-[![Email](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ngvuthtinh.work@gmail.com)
-[![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ngvuthtinh)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ngvuthtinh/)
-[![Facebook](https://img.shields.io/badge/FACEBOOK-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/NguyenVuThanhTinzh/)
+</div>
 
 ## 🛠️ Tech Stack
 
